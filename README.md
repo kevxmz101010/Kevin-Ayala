@@ -45,13 +45,13 @@
 
 ## 📊 Analítica de mi Actividad
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevxmz101010&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Racha de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevxmz101010&theme=tokyonight" alt="Racha de commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true" alt="Gráfico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevxmz101010&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true" alt="Gráfico de actividad" />
 </p>
